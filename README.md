@@ -76,9 +76,12 @@ Removed duplicate records
 Standardized country and industry names
 Ensured consistent formatting of numeric values
 Verified age group categorization
+
+
 Handling Missing Values
 Records with missing adoption rates were excluded
-Incomplete demographic records were filtered using Excel’s IF and ISBLANK functions
+
+
 Data Transformations
 Aggregated DAU using SUM
 Calculated total adoption rates by country and industry
@@ -123,6 +126,7 @@ Identify Key Trends
 AI adoption exceeds 7.23 million total adoption rate units globally
 Technology and Education lead industry adoption
 Enterprise-level organizations dominate AI usage
+
 Potential Correlations
 Higher adoption rates correlate with higher daily active users
 Countries with strong tech ecosystems show higher engagement
@@ -130,7 +134,7 @@ Initial Insights
 Younger age groups (18–24) show the highest adoption
 Generative AI tools dominate usage patterns
  
-6. In-Analysis
+7. In-Analysis
 Unconfirmed Insights
 Countries such as Australia, France, and India appear to lead adoption, but deeper segmentation is required
 Retail shows lower adoption compared to other industries
@@ -138,8 +142,9 @@ Retail shows lower adoption compared to other industries
 Recommendations (Preliminary)
 Increase AI enablement programs in lagging industries
 Expand AI literacy initiatives for older demographics
-Analysis Techniques Used in Excel
-Pivot Tables for country, industry, and tool analysis
+
+Analysis Techniques Used 
+
 KPI cards for total DAU and adoption rates
 Treemaps for AI tool usage distribution
 Line charts for industry adoption comparison
