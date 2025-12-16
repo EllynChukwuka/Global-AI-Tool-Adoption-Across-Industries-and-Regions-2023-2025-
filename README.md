@@ -26,14 +26,14 @@ AI tool usage data (ChatGPT, Midjourney, Stable Diffusion, Bard, Claude)
 Adoption rates by country and industry
 Daily active users (DAU)
 Age-group-based adoption metrics
-Methodologies Used in Excel:
-Pivot Tables & Pivot Charts
+
+Methodologies Used :
 Power BI Dashboards with KPI cards
 Aggregation using SUM, COUNT, and AVERAGE
 Sorting, filtering, and slicers
 Data visualization (bar charts, line charts, treemaps)
  
-3. Story of Data
+4. Story of Data
 Data Source
 The dataset is derived from a simulated global AI adoption dataset, designed to represent real-world AI usage trends across multiple regions and industries between 2023 and 2025.
 
